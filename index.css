@@ -1,0 +1,75 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	margin:0;
+	background-color: FACBCA;
+	line-height: .5;
+}
+
+
+#container {
+	width: 900px;
+	margin: 0 auto;
+}
+
+header 
+.title {
+	height: 300px;
+	padding-top: 1pc;
+	text-align: center;
+	font-size: 25px;
+	
+
+	background-color: EF789A;
+
+	color: black;
+
+	font-family: ;
+	line-height: 70px;
+}
+
+header h1{ 
+	font-size: 5rem;
+
+ }
+
+ #about{
+ 	text-align: center;
+ 	width: 500px;
+ 	padding-right: 100px;
+ 	margin: 0 auto;
+ 	line-height: 100%
+ }
+.title {
+	/*background-color: pink;*/
+	/*height: 300px;*/
+	color: black;
+}
+
+.menu{
+	list-style: none;
+	position: fixed; 
+	top: 319px;
+
+}
+
+.menu li{
+width: 100px;
+height: 30px;
+border: 2px solid black;
+margin: 2px;
+
+
+
+
+}
+.menu a {
+	background-color: none;
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+	height: 10px;
+	display: block;
+	list-style: none; 
+	text-align: center;
+
+}
